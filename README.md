@@ -5,7 +5,7 @@
 #### Graduate Research Assistant at Tennessee State University, Nashville, Tennessee,  USA.
 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I developed this project to enhance the security and privacy of medical data sharing while maintaining high accuracy in image classification, addressing critical challenges in healthcare data protection and analysis.
 
 Skills: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Cyber Security, Medical Imaging
 
