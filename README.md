@@ -1,5 +1,5 @@
 
-![Graduate Research Assistant at Tennessee State University, Nashville, Tennessee,  USA.](https://media.licdn.com/dms/image/v2/D5603AQF9sXUxxMXQUA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1696471704783?e=1730332800&v=beta&t=7D3LHtMkIJn8qhiltH2hzyvEwTS0yYLfLp1sW1NeSKM)
+(https://media.licdn.com/dms/image/v2/D5616AQG3NpXfLVYNCw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1700237633189?e=1730332800&v=beta&t=ty_Uk5vXdCK84tjv8MeOZVlExBdxzNfbhITFXCQ_M8U)
 
 ### Hi there 👋, I am AL AMIN, PhD Student -Engineering and Computational Science.
 #### Graduate Research Assistant at Tennessee State University, Nashville, Tennessee,  USA.
