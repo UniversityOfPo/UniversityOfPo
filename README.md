@@ -1,5 +1,5 @@
+![Graduate Research Assistant at Tennessee State University, Nashville, Tennessee,  USA.](https://media.licdn.com/dms/image/v2/D5616AQG3NpXfLVYNCw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1700237633189?e=1730332800&v=beta&t=ty_Uk5vXdCK84tjv8MeOZVlExBdxzNfbhITFXCQ_M8U)
 
-(https://media.licdn.com/dms/image/v2/D5616AQG3NpXfLVYNCw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1700237633189?e=1730332800&v=beta&t=ty_Uk5vXdCK84tjv8MeOZVlExBdxzNfbhITFXCQ_M8U)
 
 ### Hi there 👋, I am AL AMIN, PhD Student -Engineering and Computational Science.
 #### Graduate Research Assistant at Tennessee State University, Nashville, Tennessee,  USA.
@@ -7,10 +7,10 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Cyber Security, Medical Imaging.
+Skills: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Cyber Security, Medical Imaging
 
 - 🔭 I work as a Graduate Research Assistant, at Tennessee State University. 
-- 👯 I’m looking to collaborate on the University of Central Arkansas, AR, USA (Cyber Security); This work is supported partially by the NSF project number 2205773 at Tennessee State University, TN, USA, and partially by the Researchers Supporting Project number (RSP2024R32), King Saud University, Riyadh, Saudi Arabia (Physics Informed Deep Learning) 
+- 👯 I’m looking to collaborate at the University of Central Arkansas, AR, USA (Cyber Security); This work is supported partially by the NSF project number 2205773 at Tennessee State University, TN, USA, and partially by the Researchers Supporting Project number (RSP2024R32), King Saud University, Riyadh, Saudi Arabia (Physics Informed Deep Learning) 
 - 💬 Ask me about Research Collaborations 
 - 📫 How to reach me: aamin2@my.tnstate.edu 
 
@@ -30,6 +30,4 @@ Skills: Artificial Intelligence, Machine Learning, Deep Learning, Computer Visio
 ![GitHub metrics](https://metrics.lecoq.io/UniversityOfPo)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=UniversityOfPo)  
-
-
 
