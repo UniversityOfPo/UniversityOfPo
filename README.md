@@ -4,12 +4,12 @@
 #### Graduate Research Assistant at Tennessee State University, Nashville, Tennessee,  USA.
 
 
-I developed this project to enhance the security and privacy of medical data sharing while maintaining high accuracy in image classification, addressing critical challenges in healthcare data protection and analysis.
+I am a doctoral candidate in Engineering and Computational Science at Tennessee State University in the United States, specializing in Applied Mathematics and Advanced Computing. My research focuses on Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision, with a particular dedication to advancing medical image analysis across modalities such as MRI, CT scans, and X-rays. Additionally, I have worked extensively in cybersecurity, developing robust encryption systems to safeguard data against various adversarial attacks. Through my studies, I aim to contribute valuable insights that enhance diagnostic accuracy and healthcare data security.
 
 Skills: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Cyber Security, Medical Imaging
 
 - 🔭 I work as a Graduate Research Assistant, at Tennessee State University. 
-- 👯 I’m looking to collaborate at University of Central Arkansas, AR, USA (Cyber Security); This work is supported partially by the NSF project number 2205773 at Tennessee State University, TN, USA, and partially by the Researchers Supporting Project number (RSP2024R32), King Saud University, Riyadh, Saudi Arabia (Physics Informed Deep Learning) 
+- 👯 I’m looking to collaborate at the University of Central Arkansas, AR, USA (Cyber Security); This work is supported partially by the NSF project number 2205773 at Tennessee State University, TN, USA, and partially by the Researchers Supporting Project number (RSP2024R32), King Saud University, Riyadh, Saudi Arabia (Physics Informed Deep Learning) 
 - 💬 Ask me about Research Collaborations 
 - 📫 How to reach me: aamin2@my.tnstate.edu 
 
@@ -26,9 +26,5 @@ Skills: Artificial Intelligence, Machine Learning, Deep Learning, Computer Visio
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/UniversityOfPo/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/UniversityOfPo)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=UniversityOfPo)  
-
-
 
