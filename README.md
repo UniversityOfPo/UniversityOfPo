@@ -1,15 +1,15 @@
 ![Graduate Research Assistant at Tennessee State University, Nashville, Tennessee,  USA.](https://media.licdn.com/dms/image/v2/D5616AQG3NpXfLVYNCw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1700237633189?e=1730332800&v=beta&t=ty_Uk5vXdCK84tjv8MeOZVlExBdxzNfbhITFXCQ_M8U)
 
+
 ### Hi there 👋, I am AL AMIN, PhD Student -Engineering and Computational Science.
 #### Graduate Research Assistant at Tennessee State University, Nashville, Tennessee,  USA.
 
 
-I am a doctoral candidate in Engineering and Computational Science at Tennessee State University in the United States, specializing in Applied Mathematics and Advanced Computing. My research focuses on Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision, with a particular dedication to advancing medical image analysis across modalities such as MRI, CT scans, and X-rays. Additionally, I have worked extensively in cybersecurity, developing robust encryption systems to safeguard data against various adversarial attacks. Through my studies, I aim to contribute valuable insights that enhance diagnostic accuracy and healthcare data security.
+My research focuses on artificial intelligence, machine learning, deep learning, and computer vision, with a particular dedication to advancing medical image analysis across modalities such as MRI, CT scans, and X-rays. Additionally, I have worked extensively in cybersecurity, developing robust encryption systems to safeguard data against various adversarial attacks. Through my studies, I aim to contribute valuable insights that enhance diagnostic accuracy and healthcare data security.
 
-Skills: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Cyber Security, Medical Imaging
+Skills: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Cyber Security, Medical Imaging.
 
-- 🔭 I work as a Graduate Research Assistant, at Tennessee State University. 
-- 👯 I’m looking to collaborate at the University of Central Arkansas, AR, USA (Cyber Security); This work is supported partially by the NSF project number 2205773 at Tennessee State University, TN, USA, and partially by the Researchers Supporting Project number (RSP2024R32), King Saud University, Riyadh, Saudi Arabia (Physics Informed Deep Learning) 
+- 🔭 I’m working as a Graduate Research Assistant, at Tennessee State University. 
 - 💬 Ask me about Research Collaborations 
 - 📫 How to reach me: aamin2@my.tnstate.edu 
 
@@ -27,4 +27,6 @@ Skills: Artificial Intelligence, Machine Learning, Deep Learning, Computer Visio
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/UniversityOfPo/contributions?format=svg&private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=UniversityOfPo)  
+
+
 
