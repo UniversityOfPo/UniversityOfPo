@@ -8,8 +8,7 @@
 PhD in Engineering and Computational Science with expertise in privacy-preserving AI, machine learning, federated learning, computer vision, and high-performance computing. Research focuses on lightweight privacy-preserving machine learning in federated learning environments, including differential privacy mechanisms, learnable encryption schemes, homomorphic encryption, and secure data sharing protocols. Specialized in Vision Transformers (ViTs), trustworthy AI, cybersecurity with applications in medical imaging, and human-AI evaluation systems for code quality assessment. Recent work includes developing rubric-guided LLM evaluation frameworks that improved inter-rater reliability across multilingual programming contexts. Demonstrated record of first-author publications and developing AI systems deployed on HPC and cloud platforms, with proven ability to bridge theoretical research with practical industry applications through an internship at Centific. Experienced in interdisciplinary collaboration, with ongoing work bridging AI, systems security, differential privacy, optimization, and reproducible evaluation methodologies for LLM-generated content.
 
 Skills: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Cyber Security, Medical Imaging.
-
-- 🔭 I’m working as a Graduate Research Assistant, at Tennessee State University. 
+ 
 - 💬 Ask me about Research Collaborations 
 - 📫 How to reach me: aamin2@my.tnstate.edu 
 
