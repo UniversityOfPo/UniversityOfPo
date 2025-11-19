@@ -1,11 +1,11 @@
-![Graduate Research Assistant at Tennessee State University, Nashville, Tennessee,  USA.](https://media.licdn.com/dms/image/v2/D5616AQG3NpXfLVYNCw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1700237633189?e=1730332800&v=beta&t=ty_Uk5vXdCK84tjv8MeOZVlExBdxzNfbhITFXCQ_M8U)
+![GradTennessee State University, Nashville, Tennessee,  USA.](https://media.licdn.com/dms/image/v2/D5616AQG3NpXfLVYNCw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1700237633189?e=1730332800&v=beta&t=ty_Uk5vXdCK84tjv8MeOZVlExBdxzNfbhITFXCQ_M8U)
 
 
-### Hi there 👋, I am AL AMIN, PhD Student -Engineering and Computational Science.
+### Hi there 👋, I am AL AMIN, PhD in Engineering and Computational Science.
 #### Graduate Research Assistant at Tennessee State University, Nashville, Tennessee,  USA.
 
 
-My research focuses on artificial intelligence, machine learning, deep learning, and computer vision, with a particular dedication to advancing medical image analysis across modalities such as MRI, CT scans, and X-rays. Additionally, I have worked extensively in cybersecurity, developing robust encryption systems to safeguard data against various adversarial attacks. Through my studies, I aim to contribute valuable insights that enhance diagnostic accuracy and healthcare data security.
+PhD in Engineering and Computational Science with expertise in privacy-preserving AI, machine learning, federated learning, computer vision, and high-performance computing. Research focuses on lightweight privacy-preserving machine learning in federated learning environments, including differential privacy mechanisms, learnable encryption schemes, homomorphic encryption, and secure data sharing protocols. Specialized in Vision Transformers (ViTs), trustworthy AI, cybersecurity with applications in medical imaging, and human-AI evaluation systems for code quality assessment. Recent work includes developing rubric-guided LLM evaluation frameworks that improved inter-rater reliability across multilingual programming contexts. Demonstrated record of first-author publications and developing AI systems deployed on HPC and cloud platforms, with proven ability to bridge theoretical research with practical industry applications through an internship at Centific. Experienced in interdisciplinary collaboration, with ongoing work bridging AI, systems security, differential privacy, optimization, and reproducible evaluation methodologies for LLM-generated content.
 
 Skills: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Cyber Security, Medical Imaging.
 
