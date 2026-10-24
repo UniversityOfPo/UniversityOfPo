@@ -1,7 +1,7 @@
 ![Tennessee State University, Nashville, Tennessee,  USA.](https://media.licdn.com/dms/image/v2/D5616AQG3NpXfLVYNCw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1700237633189?e=1730332800&v=beta&t=ty_Uk5vXdCK84tjv8MeOZVlExBdxzNfbhITFXCQ_M8U)
 
 
-### Hi there 👋, I am AL AMIN, PhD in Engineering and Computational Science.
+### Hi there 👋, I am AL AMIN, Engineering and Computational Science.
 #### Tennessee State University, Nashville, Tennessee,  USA.
 
 
